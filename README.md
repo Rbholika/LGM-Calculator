@@ -1,1 +1,1 @@
-# LGN-Calculator
+# LGM-Calculator
